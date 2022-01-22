@@ -5,7 +5,7 @@
 - 💫 Software Engineer.
 - ⭐ Known languages: C#, C++, Lua, Fullstack JavaScript, Lua.
 - 🎓  [Netguru Development](https://www.netguru.com/services/software-development) 
-- 🎓Cto > [Squar Agency] (https://squaremediaagency.it/social-media-marketing/)
+- 🎓Cto > [Squar Agency] (https://squaremediaagency.it/social-media-marketing)
 - 🎓Cto > BrasilianoDev.com
 <h3>Languages and Tools:</h3>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a> 
